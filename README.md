@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya0349" alt="aditya0349" /></a> </p>
 
-- 🔭 I’m currently working on [Power Bi,Tableau](..)
+- 🔭 I’m currently working on [Power Bi,Tableau]
 
 - 🌱 I’m currently learning **Google Data Analytics**
 
-- 👯I’m currently learning [Machine Learning](..)
+- 👯I’m currently learning [Machine Learning]
 
-- 🤝 I’m looking for help with [artificial intelligence, Deep Learning, Neural Networks](.)
+- 🤝 I’m looking for help with [artificial intelligence, Deep Learning, Neural Networks]
 
-- 👨‍💻 All of my projects are available at [.](.)
+- 👨‍💻 All of my projects are available at [.]
 
 - 📫 How to reach me **rathoreaditya000@gmail.com**
 
