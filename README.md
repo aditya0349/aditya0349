@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [artificial intelligence, Deep Learning, Neural Networks]
 
-- 👨‍💻 All of my projects are available at [.]
+- 👨‍💻 All of my projects are available at 
 
 - 📫 How to reach me **rathoreaditya000@gmail.com**
 
