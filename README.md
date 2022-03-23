@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/adityapratapsingh1857/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adityapratapsingh1857/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adityapratapsingh1857/" target="blank"><img align="center"  alt="adityapratapsingh1857/" height="30" width="40" /></a>
 <a href="https://kaggle.com/aditya5460" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aditya5460" height="30" width="40" /></a>
 <a href="https://fb.com/rathoreaditya000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rathoreaditya000/" height="30" width="40" /></a>
 <a href="https://instagram.com/mr._._rathore/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr._._rathore/" height="30" width="40" /></a>
